@@ -1,6 +1,6 @@
 # Caravanas_Tkinter
 
-Trazabilidad en Uruguay
+Traceability in Uruguay
 
 In Uruguay we have the cattle roundup with a numerical device of 8 numbers.
 These numbers are obtained by reading through a cane.
